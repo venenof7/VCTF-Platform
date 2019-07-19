@@ -66,6 +66,6 @@ Route::get('/about','ctfController@about');
 
 <img src="https://github.com/Veneno0/VCTF-Platform/blob/master/1.png">
 
-<img src="https://github.com/Veneno0/VCTF-Platform/blob/master/1.png">
+<img src="https://github.com/Veneno0/VCTF-Platform/blob/master/2.png">
 
-<img src="https://github.com/Veneno0/VCTF-Platform/blob/master/1.png">
+<img src="https://github.com/Veneno0/VCTF-Platform/blob/master/3.png">
