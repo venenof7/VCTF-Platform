@@ -54,6 +54,8 @@ Route::get('/about','ctfController@about');
 
 >http://yourip:8000/ 
 
+>Admin:Venenof7@11.com/Venenof7
+
 >play ctf:)
 ```
 ## 👨‍💻 Contact me
@@ -62,8 +64,8 @@ Route::get('/about','ctfController@about');
 
 ## photo
 
-<img src="./1.png">
+<img src="https://github.com/Veneno0/VCTF-Platform/blob/master/1.png">
 
-<img src="./2.png">
+<img src="https://github.com/Veneno0/VCTF-Platform/blob/master/1.png">
 
-<img src="./3.png">
+<img src="https://github.com/Veneno0/VCTF-Platform/blob/master/1.png">
