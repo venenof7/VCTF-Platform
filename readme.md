@@ -42,9 +42,9 @@ Route::get('/about','ctfController@about');
 
 >cp .env.example .env
 
->php artisan key:generate
+>vim .env to update database
 
->php artisan serve
+>php artisan key:generate
 
 >mysql -uroot -p ctf < ctf.sql
 
