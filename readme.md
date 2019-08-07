@@ -62,7 +62,7 @@ Route::get('/about','ctfController@about');
 
 `nul1ctf[at]163.com`
 
-## photo
+## 🎞photo
 
 <img src="https://github.com/Veneno0/VCTF-Platform/blob/master/1.png">
 
